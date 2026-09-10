@@ -1,0 +1,21 @@
+node_modules/
+.pnp
+.pnp.js
+
+dist/
+build/
+*.log
+
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+.env
+.env.local
+.env.*.local
+
+# TypeScript
+*.tsbuildinfo
+
+Thumbs.db
