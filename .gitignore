@@ -1,21 +1,5 @@
-node_modules/
-.pnp
-.pnp.js
-
-dist/
-build/
-*.log
-
-.vscode/
-.idea/
-*.swp
-.DS_Store
-
+node_modules
+dist
 .env
-.env.local
-.env.*.local
-
-# TypeScript
-*.tsbuildinfo
-
-Thumbs.db
+*.log
+.DS_Store
